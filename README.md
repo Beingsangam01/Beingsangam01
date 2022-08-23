@@ -1,10 +1,9 @@
-### Hi there 👋
+### Sangam Kumar 👋
 
-- 🔭 I’m currently working on ...Mern Stack
-- 🌱 I’m currently learning ...aws
-- 👯 I’m looking to collaborate on ...Reactjs
-- 🤔 I’m looking for help with ...aws
-- 💬 Ask me about ...anything
-- 📫 How to reach me: ...[Portfolio website](https://myportfolioskills.netlify.app/)
-- 😄 Pronouns: ...he/him
+- 🔭 I’m currently working on Data Analysis.
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to collaborate on Data Science.
+- 💬 Ask me about tech related stuff.
+- 📫 How to reach me: sangamvaishkiyar@gmail.com
+- 😄 Pronouns: ...he/him.
 
